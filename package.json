@@ -1,6 +1,6 @@
 {
   "name": "@nexys/ipfs-infura-client",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "license": "MIT",
   "scripts": {
@@ -20,7 +20,7 @@
   ],
   "keywords": [
     "typescript",
-    "SDK"
+    "SDK", "infura", "IPFS"
   ],
   "dependencies": {
     "ipfs-http-client": "^55.0.0"
