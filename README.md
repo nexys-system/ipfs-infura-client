@@ -1,6 +1,6 @@
 # client ipfs-infuria
 [![npm version](https://img.shields.io/npm/v/@nexys/ipfs-infuria-client.svg)](https://www.npmjs.com/package/@nexys/ipfs-infuria-client)
-[![Build and Test Package](https://github.com/nexys-system/ipfs-infuria-client-package-template/actions/workflows/yarn.yml/badge.svg)](https://github.com/nexys-system/ipfs-infuria/actions/workflows/yarn.yml)
+[![Build and Test Package](https://github.com/nexys-system/ipfs-infuria-client-package-template/actions/workflows/test.yml/badge.svg)](https://github.com/nexys-system/ipfs-infuria/actions/workflows/test.yml)
 [![Publish](https://github.com/nexys-system/ipfs-infuria/actions/workflows/publish.yml/badge.svg)](https://github.com/nexys-system/ipfs-infuria/actions/workflows/publish.yml)
 ![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
 [![Bundlephobia](https://badgen.net/bundlephobia/min/@nexys/ipfs-infuria-client)](https://bundlephobia.com/result?p=@nexys/ipfs-infuria-client)
