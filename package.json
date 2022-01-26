@@ -1,5 +1,5 @@
 {
-  "name": "@nexys/ipfs-infuria-client",
+  "name": "@nexys/ipfs-infura-client",
   "version": "0.0.2",
   "private": false,
   "license": "MIT",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nexys-system/ipfs-infuria"
+    "url": "https://github.com/nexys-system/ipfs-infura-client"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
