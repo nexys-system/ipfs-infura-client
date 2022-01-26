@@ -1,9 +1,9 @@
 # client ipfs-infuria
-[![npm version](https://img.shields.io/npm/v/@nexys/template.svg)](https://www.npmjs.com/package/@nexys/template)
-[![Build and Test Package](https://github.com/nexys-system/ipfs-infuria-client-package-template/actions/workflows/yarn.yml/badge.svg)](https://github.com/nexys-system/ipfs-infuria-client-package-template/actions/workflows/yarn.yml)
-[![Publish](https://github.com/nexys-system/ipfs-infuria-client-package-template/actions/workflows/publish.yml/badge.svg)](https://github.com/nexys-system/ipfs-infuria-client-package-template/actions/workflows/publish.yml)
+[![npm version](https://img.shields.io/npm/v/@nexys/ipfs-infuria-client.svg)](https://www.npmjs.com/package/@nexys/ipfs-infuria-client)
+[![Build and Test Package](https://github.com/nexys-system/ipfs-infuria-client-package-template/actions/workflows/yarn.yml/badge.svg)](https://github.com/nexys-system/ipfs-infuria/actions/workflows/yarn.yml)
+[![Publish](https://github.com/nexys-system/ipfs-infuria/actions/workflows/publish.yml/badge.svg)](https://github.com/nexys-system/ipfs-infuria/actions/workflows/publish.yml)
 ![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
-[![Bundlephobia](https://badgen.net/bundlephobia/min/@nexys/template)](https://bundlephobia.com/result?p=@nexys/template)
+[![Bundlephobia](https://badgen.net/bundlephobia/min/@nexys/ipfs-infuria-client)](https://bundlephobia.com/result?p=@nexys/ipfs-infuria-client)
 
 ## Get started
 
