@@ -20,7 +20,9 @@
   ],
   "keywords": [
     "typescript",
-    "SDK", "infura", "IPFS"
+    "SDK",
+    "infura",
+    "IPFS"
   ],
   "dependencies": {
     "ipfs-http-client": "^55.0.0"
@@ -28,6 +30,7 @@
   "devDependencies": {
     "@types/jest": "^25.2.3",
     "@types/nock": "^11.1.0",
+    "@types/node": "^17.0.12",
     "jest": "^26.0.1",
     "ts-jest": "^25.3.1",
     "typescript": "^3.9.3"
